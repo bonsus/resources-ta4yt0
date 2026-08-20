@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonsus.github.io/resources-ta4yt0/sitemap.xml
